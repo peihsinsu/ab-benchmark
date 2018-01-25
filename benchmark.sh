@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# origin: https://gist.github.com/emersonmoretto/1135197
 echo -e "\nbenchmark.sh -n<number of requests> -c<number of concurrency> <URL1> <URL2> ..."
 
 echo -e "\nEx: benchmark.sh -n100 -c10 http://www.google.com/ http://www.bing.com/ \n"
